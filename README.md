@@ -6,11 +6,13 @@ I'm Kooshan , a dedicated Electrical Engineering student at Sharif University of
 
 - Java
 - C/C++
-- Python
+- Python (Pandas , Numpy , Matplot , OpenCV)
 - Matlab
 - Javascript
 - Pspice (Circuit Analysis Software)
-
+- Cisco Packet Tracer
+- Wireshark
+- CCNA , Network+
 ## Looking for new Opportunities
 
 As an Electrical Engineering student passionate about data analysis, machine learning, networking, and software development, I'm always interested in learning new things and gain more insight into these fields. If you have any opportunities or projects in these realms ,and you think I'm the right choice to be a member of your team, please reach out.
